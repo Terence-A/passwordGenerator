@@ -12,6 +12,9 @@
 ![image](https://github.com/Terence-A/passwordGenerator/assets/90189211/ff7c29d1-4e5c-4908-b27a-d1a2fa343bd8)
 ![image](https://github.com/Terence-A/passwordGenerator/assets/90189211/64093aa3-b328-4fd3-a08d-b009032dab3f)
 
+## Github Page
+
+https://terence-a.github.io/passwordGenerator/
 
 
 
